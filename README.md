@@ -1,2 +1,1 @@
-# All_Exercise_Projects
-All my Project for Python Practice 
+Here are all the python projects I have worked on till now.
